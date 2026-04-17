@@ -1,0 +1,21 @@
+body
+{  background-image: url("Parking.jpeg");
+    background-size:cover;
+   background-attachment:fixed;
+   overflow:hidden;
+}
+form
+{
+   border:5px yellow solid;
+    width:600px;
+    height:200px;
+    margin:440px;
+    padding:30px;
+    text-align:justify;
+    color:black;
+    font-weight:bold;
+    font-style:italic;
+    font-family:verdana;
+    font-size:20px;
+
+}
