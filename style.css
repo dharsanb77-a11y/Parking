@@ -9,7 +9,7 @@ form
    border:5px yellow solid;
     width:600px;
     height:200px;
-    margin:440px;
+    margin:440px auto;
     padding:30px;
     text-align:justify;
     color:black;
