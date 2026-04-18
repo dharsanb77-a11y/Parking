@@ -2,13 +2,14 @@ body
 {  background-image: url("Parking.jpeg");
    background-attachment:scroll;
  background-repeat:no-repeat;
+ background-size:cover;
 }
 form
 {
    border:7px yellow solid;
     width:600px;
     height:460px;
-    margin:440px auto;
+    margin:100px auto;
     padding:30px;
     text-align:justify;
     color:black;
