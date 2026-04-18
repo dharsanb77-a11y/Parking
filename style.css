@@ -4,13 +4,7 @@ body
  background-repeat:no-repeat;
  background-size:cover;
 }
-h4
-{
-   font-style:italic;
-   font-weight:bold;
-   color:orange;
-}
-form
+.form-container
 {
    border:7px yellow solid;
     width:600px;
@@ -23,4 +17,16 @@ form
     font-style:italic;
     font-family:verdana;
     font-size:20px;
+}
+.icon {
+    width: 25px;
+    height: 25px;
+}
+h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    color: orange;
+    margin-bottom: 20px;
 }
