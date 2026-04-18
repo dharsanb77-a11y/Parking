@@ -1,6 +1,7 @@
 body
 {  background-image: url("Parking.jpeg");
-   background-attachment:fixed;
+   background-attachment:scroll;
+ background-repeat:no-repeat;
 }
 form
 {
