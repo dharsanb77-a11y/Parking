@@ -2,7 +2,6 @@ body
 {  background-image: url("Parking.jpeg");
     background-size:cover;
    background-attachment:fixed;
-   overflow:hidden;
 }
 form
 {
