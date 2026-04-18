@@ -6,7 +6,7 @@ body
 }
 form
 {
-   border:5px yellow solid;
+   border:7px yellow solid;
     width:600px;
     height:200px;
     margin:440px auto;
@@ -16,6 +16,6 @@ form
     font-weight:bold;
     font-style:italic;
     font-family:verdana;
-    font-size:20px;
+    font-size:40px;
 
 }
