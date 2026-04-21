@@ -1,5 +1,5 @@
 body
-{  background-image: url("Parking.jpeg");
+{  background-image: url("parking.png");
    background-attachment:scroll;
  background-repeat:no-repeat;
  background-size:cover;
@@ -9,7 +9,7 @@ body
    border:7px yellow solid;
     width:600px;
     height:300px;
-    margin:460px auto;
+    margin:300px auto;
     padding:30px;
     text-align:justify;
     color:black;
