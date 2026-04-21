@@ -7,9 +7,9 @@ body
 .form-container
 {
    border:7px yellow solid;
-    width:600px;
-    height:300px;
-    margin:300px auto;
+    width:450px;
+    height:400px;
+    margin: 100px;
     padding:30px;
     text-align:justify;
     color:black;
@@ -17,12 +17,4 @@ body
     font-style:italic;
     font-family:verdana;
     font-size:20px;
-}
-h2 {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    color: orange;
-    margin-bottom: 20px;
 }
